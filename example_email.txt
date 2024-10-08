@@ -1,0 +1,19 @@
+Hi everyone,
+
+Thanks for attending the Prompt Shepherd webinar last Friday, October 4. We hope you learned a lot about AI Agent architectures and prompt engineering.
+
+In the webinar, we covered:
+- relevant point 1
+- relevant point 2
+- relevant point 3
+
+If you missed the webinar, you can find it at <link>
+
+You can also find the code repo at <github link>
+
+See you next time at <next webinar link>
+
+If you have any questions, please feel free to respond to this email.
+
+Best,
+Vaibhav Gupta

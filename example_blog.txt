@@ -1,0 +1,18 @@
+Last Friday, over 50 devs congregated in a Zoom call on how to build AI Agent architectures hosted by BoundaryML featuring Sherlock AI. We covered many examples and concepts.
+
+We started with solving <specific example 1> by Sherlock AI. They demoed <feature 1> <feature 2> <feature 3>.
+
+Then <def>
+
+...
+
+There were tons of questions from developers all over the world. Here's what the questions and answers were:
+Q1
+A1
+
+Q2
+A2
+
+...
+
+Specific examples can be found at our GitHub repo <link> and the full webinar can be seen <link>
